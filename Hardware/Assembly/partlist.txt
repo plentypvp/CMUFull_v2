@@ -1,0 +1,43 @@
+Partlist
+
+Exported from CMUFull.brd at 1/16/2022 4:24 AM
+
+EAGLE Version 8.6.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part      Value                       Package                      Library               Position (mil)        Orientation
+
+C10       0.75pF                      0402-TIGHT                   SparkFun-Capacitors   (835 750)             R0
+C11       0.47uF                      0402-TIGHT                   SparkFun-Capacitors   (460 1310)            MR180
+C24       0.1uF                       0402                         SparkFun-Capacitors   (680 1100)            MR90
+C25       0.47uF                      0402-TIGHT                   SparkFun-Capacitors   (590 1130)            MR180
+C26       2.2uF                       0402-TIGHT                   SparkFun-Capacitors   (600 1385)            MR0
+C27       0.5pF                       0402-TIGHT                   SparkFun-Capacitors   (830 895)             R0
+C34       12pF                        0402-TIGHT                   SparkFun-Capacitors   (486 944)             MR270
+C35       12pF                        0402-TIGHT                   SparkFun-Capacitors   (306 947)             MR270
+C36       4.7uF                       0402-TIGHT                   SparkFun-Capacitors   (173 835)             R180
+C37       0.1uF                       0402                         SparkFun-Capacitors   (175 1045)            R180
+C40       820pF                       0402                         SparkFun-Capacitors   (590 915)             R0
+C42       100PF                       0402                         SparkFun-Capacitors   (595 1050)            R180
+C47       1.0uF                       0402                         SparkFun-Capacitors   (300 1160)            R0
+C48       4.7uF                       0402-TIGHT                   SparkFun-Capacitors   (540 750)             MR180
+C49       4.7uF                       0402-TIGHT                   SparkFun-Capacitors   (455 600)             MR0
+E1        YC0009AA                    XCVR_YC0009AA                YC0009AA              (830 1030)            R90
+J3        MOLEX 48037-2200            USB-A-SMT-MALE               SparkFun-Connectors   (467 146)             R90
+L1        4.7NH LQW15AN4N7D10D        0402                         SparkFun-Coils        (800 820)             R90
+LED_STRIP Don't solder anything here! 1X03                         pinhead               (280 1405)            R0
+PROG      Don't solder anything here! 1X03                         pinhead               (810 545)             R270
+Q1        CMA-4544PF-W                9.7ELECTRET                  adafruit              (680 1290)            R270
+Q2        BSS138 -- BSS138WH6327XTSA1 SOT23-3                      SparkFun-DiscreteSemi (250 1250)            MR90
+R38       2.2k                        0402-TIGHT                   SparkFun-Resistors    (530 1110)            MR90
+R43       100k                        0402-TIGHT                   SparkFun-Resistors    (470 1205)            MR0
+R44       150KOHM-0402T-1/16W-1%      0402-TIGHT                   SparkFun-Resistors    (490 1145)            MR90
+R45       0                           0402                         SparkFun-Resistors    (668 600)             R90
+R46       0                           0402                         SparkFun-Resistors    (266 599)             R270
+R47       1k                          0402-TIGHT                   SparkFun-Resistors    (170 1250)            MR90
+R48       1k                          0402-TIGHT                   SparkFun-Resistors    (275 1160)            MR180
+U$1       MAX9814ETD+T                TDFN14_3X3MM                 adafruit              (585 1250)            MR270
+U$2       NRF52840-QIAA-R aQFN73      AQFN50P700X700X85_HS-74N     Nordic_nRF            (380 955)             R0
+U7        ADP160AUJZ-3.3-R7           SOT23-5                      SparkFun-IC-Power     (450 700)             MR0
+Y3        ECS-320-12-36B-CKY-TR       XTAL_ECS-163.84-10-36-JGN-TR ECS-320-12-36B-CKY-TR (395 950)             MR180

@@ -1,0 +1,1 @@
+openocd -f interface/stlink.cfg -f target/nrf52.cfg -c init -c halt -c "nrf5 mass_erase" -c "program ../../../../nrf_sdks/nRF5_SDK_15.0.0_a53641a/components/softdevice/s140/hex/s140_nrf52_6.0.0_softdevice.hex" -c "program ./_build/nrf52840_xxaa_s140.hex verify" -c "reset" -c "exit"

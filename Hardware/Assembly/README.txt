@@ -1,0 +1,1 @@
+Use 5% tolerance resistors and capacitors.
